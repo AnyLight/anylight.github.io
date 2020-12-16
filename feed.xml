@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-16T15:03:14+00:00</updated><id>/feed.xml</id><title type="html">AnyLight’s Blog</title><subtitle>這裡是 AnyLight 隨處放筆記的地方，歡迎隨處逛逛</subtitle><entry><title type="html">這是一篇測試文</title><link href="/test/2020/12/16/%E9%80%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%B8%AC%E8%A9%A6%E6%96%87.html" rel="alternate" type="text/html" title="這是一篇測試文" /><published>2020-12-16T14:52:44+00:00</published><updated>2020-12-16T14:52:44+00:00</updated><id>/test/2020/12/16/%E9%80%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%B8%AC%E8%A9%A6%E6%96%87</id><content type="html" xml:base="/test/2020/12/16/%E9%80%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%B8%AC%E8%A9%A6%E6%96%87.html">&lt;p&gt;這是第一篇測試文，可能之後還會有測試，顆顆
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;但恭喜這個 blog 的誕生～&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;期待後續的文章，但是用 markdown 來寫還真是有點複雜
+該開始找找好用的編輯器了&lt;/p&gt;
+
+&lt;p&gt;還有一個看起來乾淨簡潔的 theme
+每天做一點，期待越來越好～&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/&quot;&gt;返回&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Test" /><summary type="html">這是第一篇測試文，可能之後還會有測試，顆顆 但恭喜這個 blog 的誕生～</summary></entry></feed>
